@@ -14,10 +14,8 @@
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
-    // ...
   },
   "browserslist": {
-    // ...
   },
   "devDependencies": {
     "gh-pages": "^x.x.x"
